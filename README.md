@@ -94,8 +94,8 @@ This feature is still under development, review, and testing.
     metadata:
         name: my-service-instance
     spec:
-        serviceOfferingName: sample-service
-        servicePlanName: sample-plan
+        serviceOfferingName: <offering>
+        servicePlanName: <plan>
         externalName: my-service-instance-external
         parameters:
           key1: val1
